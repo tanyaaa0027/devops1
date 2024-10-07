@@ -1,0 +1,8 @@
+# Create a list
+my_list = [34, 12, 45, 2, 99, 23, 10]
+
+# Sort the list in ascending order
+my_list.sort()
+
+# Print the sorted list
+print("Sorted list:", my_list)
